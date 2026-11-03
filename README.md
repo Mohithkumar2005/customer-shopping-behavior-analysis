@@ -22,8 +22,5 @@ Import the cleaned CSV into MySQL as a table named `customer`, then run `sql/cus
 
 Open the `.pbix` file in Microsoft Power BI Desktop. If Power BI prompts for a data source, point it to the included cleaned CSV and refresh the model.
 
-## Reference
-
-The project was completed as a learning exercise based on the tutorial/repository that inspired it: [amlanmohanty1/customer-trends-data-analysis-SQL-Python-PowerBI](https://github.com/amlanmohanty1/customer-trends-data-analysis-SQL-Python-PowerBI). The linked repository belongs to its original author.
 
 
